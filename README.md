@@ -81,7 +81,7 @@ This is a web based application developed for health related health based websit
 ### azure healtbot -
 
 
-![p10](https://user-images.githubusercontent.com/118421848/208391004-28506497-fa48-4129-97b3-276cd332a30a.png)
+![p11](https://user-images.githubusercontent.com/118421848/208391676-5da8b8b4-d4d6-4b8f-b289-93c94fdad1a4.png)
 
 
 
